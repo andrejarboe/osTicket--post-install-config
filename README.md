@@ -80,9 +80,26 @@ This tutorial outlines the post install configuration of the open-source help de
 - go to Admin Panel -> Settings -> Users ->Settings
 - uncheck Registration Required: Require registration and login to create tickets 
 
+---
 
+![new agent account](./newAgentAccount.jpeg)
+![new agent role](./newAgentRole.jpeg)
+![new agent teams](./newAgentTeams.jpeg)
 
+- Now we need to create agents
+- agents are teh help desk professionals
+- go to Admin Panel -> Agents -> Add New
+- add the information for the agents
+- go to access and make them:
+    - Department: System Admin
+    - Role: Supreme Admin
+- go to team
+    - select the team you want
+    - click add
+- click create
+- add all the team members you need
 
+---
 
 
 
