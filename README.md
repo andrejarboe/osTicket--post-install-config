@@ -101,8 +101,15 @@ This tutorial outlines the post install configuration of the open-source help de
 
 ---
 
+![click agent panel](./clickAgentPanel.jpeg)
+![click add user](./clickAddUser.jpeg)
 
-
+- now lets create some users. 
+    - In osTicket users are the customers that can create tickets
+    - they one the tickets they create
+- go to Agent Panel -> Users -> Add New
+- add the user's information
+- click add user to save
 
 
 
