@@ -111,7 +111,33 @@ This tutorial outlines the post install configuration of the open-source help de
 - add the user's information
 - click add user to save
 
+---
 
+![user to SLA](./usertoSLA.jpeg)
+![create SLA](./createSLA.jpeg)
+
+- Now we need to set up SLAs
+- go to Admin Panel -> Manage -> SLA
+- click add new
+- make the SLAs you need for your organization
+    - general SLAs:
+        - Sev-A (1 hour, 24/7)
+        - Sev-B (4 hours, 24/7)
+        - Sev-C (Monday - Friday 8am - 5pm with U.S. Holidays)
+
+---
+
+![add help topics](./helpTopics.jpeg)
+
+- Now we need to ad some general help topics so the users can categorize what they need help with
+- Go to Admin Panel -> Manage -> SLA
+- click ad new
+- add the topics you need for your organization
+- general help topics:
+    - Business Critical Outage
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
 
 
 
